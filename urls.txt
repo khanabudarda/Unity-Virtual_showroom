@@ -1,1 +1,1 @@
-OneType<url>www.google.com
+OneType<url>file:///Volumes/Segate/App/Unity%20Projects/ShowRoom%201%203/Assets/AssetBundles/testbundle
