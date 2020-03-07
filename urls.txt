@@ -1,1 +1,1 @@
-OneType<'url'>www.google.com
+OneType<url>www.google.com
